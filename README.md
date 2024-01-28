@@ -1,5 +1,5 @@
 
-Certainly! Here's a customized GitHub profile README for you:
+
 
 Hi there, I'm Projwal Mallick! 👋
 🎓 I'm a 3rd-year engineering student passionate about web development.
