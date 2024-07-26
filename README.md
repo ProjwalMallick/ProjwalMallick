@@ -2,7 +2,7 @@
 
 
 Hi there, I'm Projwal Mallick! 👋
-🎓 I'm a 3rd-year engineering student passionate about web development.
+🎓 I'm a 4rd-year engineering student passionate about web development.
 💻 Currently diving into the MERN (MongoDB, Express.js, React, Node.js) stack.
 ⚽ I enjoy playing cricket and football in my free time.
 👀 About Me:
